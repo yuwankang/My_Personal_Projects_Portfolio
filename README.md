@@ -18,6 +18,7 @@
 | 4   | **AverageLoad**                              | 리눅스 시스템의 평균 부하에 대한 이해 및 시스템 성능 분석             | Linux                       | 🤼 (2명)       | [GitHub 링크](https://github.com/yuwankang/WooriFisa_AverageLoad/tree/main) | 2024-09-23 |
 | 5   | **cron_backup**                | 쉘 스크립트와 cron 작업을 사용하여 자동화된 백업 시스템 설정             | Linux, Crontab                      | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/cron_backup) | 2024-09-23 |
 | 6   | **OptiDocker**                | 도커이미지 최적화 프로젝트             | Linux, Docker                      | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/OptiDocker) | 2024-09-24 |
+| 7   | **security_scanner_study**                | 웹 애플리케이션을 통해 Docker 이미지를 스캔하여 보안 취약점을 탐지하는 프로젝트     | Linux, Docker,Trivy,Docker,HTML/CSS/JavaScript,ELK, Python (Flask), Node.js (Express)                      | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/security_scanner_study) | 2024-09-25 |
 
 <br>
 
