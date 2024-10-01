@@ -20,6 +20,7 @@
 | 6   | **OptiDocker**                | 도커이미지 최적화 프로젝트             | Linux, Docker                      | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/OptiDocker) | 2024-09-24 |
 | 7   | **security_scanner_study**                | 웹 애플리케이션을 통해 Docker 이미지를 스캔하여 보안 취약점을 탐지하는 프로젝트     | Linux, Docker,Trivy Python (Flask) | 👨‍👨‍👧‍👧 (4명)       | [GitHub 링크](https://github.com/yuwankang/security_scanner_study) | 2024-09-25 |
 | 8   | **MySQL Data Dump and Import Project**                | Docker를 이용하여 MySQL 데이터베이스의 데이터를 효율적으로 덤프하고, 새로운 MySQL 데이터베이스에 반영하는 방법을 다룹니다.     | Linux, Docker,Docker Compose, shellscript                     | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/mysql_Dump) | 2024-09-27 |
+| 9   | **CI-CDPipeLine**                | jenkins CI/CD 파이프라인을 사용하여 Github 빌드 및 배포 자동화 프로젝트     | jenkins, Linux, shellscript, ssh     | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/CI-CDPipeLine) | 2024-10-01 |
 
 <br>
 
@@ -36,4 +37,4 @@
 
 ---
 
-이 포트폴리오는 지속적으로 업데이트됩니다. **(2024-09-27)**
+이 포트폴리오는 지속적으로 업데이트됩니다. **(2024-10-01)**
