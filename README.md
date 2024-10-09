@@ -22,8 +22,7 @@
 | 8   | **MySQL Data Dump and Import Project**                | Docker를 이용하여 MySQL 데이터베이스의 데이터를 효율적으로 덤프하고, 새로운 MySQL 데이터베이스에 반영하는 방법을 다룹니다.     | Linux, Docker,Docker Compose, shellscript                     | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/mysql_Dump) | 2024-09-27 |
 | 9   | **CI-CDPipeLine**                | jenkins CI/CD 파이프라인을 사용하여 Github 빌드 및 배포 자동화 프로젝트     | jenkins, Linux, shellscript, ssh     | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/CI-CDPipeLine) | 2024-10-01 |
 | 10   | **k8s_Minikube**   | k8s LoadBalancer와 NodePort 서비스 방식의 차이를 비교 및 배포     | K8s, Spring Boot, Minikube,  NGINX, Docker    | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/k8s_Minikube) | 2024-10-02 |
-| 10   | **JmeterStressTest
-**   |AWS EC2에서 JMeter를 활용한 스트레스 테스트| AWS, Java, MySQL, Apache JMeter    | 👨‍👨‍👧‍👧 (4명)       | [GitHub 링크](https://github.com/yuwankang/WooriFisa_JmeterStressTest) | 2024-10-08 |
+| 10   | **JmeterStressTest**   |AWS EC2에서 JMeter를 활용한 스트레스 테스트| AWS, Java, MySQL, Apache JMeter    | 👨‍👨‍👧‍👧 (4명)       | [GitHub 링크](https://github.com/yuwankang/WooriFisa_JmeterStressTest) | 2024-10-08 |
 
 <br>
 
