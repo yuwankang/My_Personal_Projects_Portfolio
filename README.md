@@ -12,19 +12,18 @@
 
 | No  | 프로젝트 이름                                | 설명                                                                 | 주요 기술                   | 참여 인원       | 링크                                                                 | 날짜        |
 | --- | -------------------------------------------- | -------------------------------------------------------------------- | -------------------------- | -------------- | ------------------------------------------------------------------- | ----------- |
-| 1   | **NSX ALB 프로젝트**                         | NSX ALB 기술 분석 프로젝트                                            | NSX, LoadBalance, VMware    | 👨‍👨‍👧‍👧 (4명) | [노션 링크](https://www.notion.so/1-f72ae8bff2cf4a19bbedf66008957275) | 2024-09-13 |
-| 2   | **Linux_PAM - VM 네트워크 및 보안 강화**     | VirtualBox Ubuntu VM 환경에서 네트워크 충돌 방지 및 보안 강화         | Linux, VirtualBox, PAM      | 👨‍👨‍👧‍👧 (4명) | [GitHub 링크]()                                                       | 2024-09-19 |
-| 3   | **1분의 인기스타**                           | 더미 데이터를 1초당 10개씩 생성하여 ELK로 시각화 및 1분마다 csv 삭제 | Linux, Crontab, Bash scripting, ELK | 👨‍👨‍👧‍👧 (4명) | [GitHub 링크](https://github.com/cshharry/WooriFisa_crontab)          | 2024-09-20 |
-| 4   | **AverageLoad**                              | 리눅스 시스템의 평균 부하에 대한 이해 및 시스템 성능 분석             | Linux                       | 🤼 (2명)       | [GitHub 링크](https://github.com/yuwankang/WooriFisa_AverageLoad/tree/main) | 2024-09-23 |
-| 5   | **cron_backup**                | 쉘 스크립트와 cron 작업을 사용하여 자동화된 백업 시스템 설정             | Linux, Crontab                      | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/cron_backup) | 2024-09-23 |
-| 6   | **OptiDocker**                | 도커이미지 최적화 프로젝트             | Linux, Docker                      | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/OptiDocker) | 2024-09-24 |
-| 7   | **security_scanner_study**                | 웹 애플리케이션을 통해 Docker 이미지를 스캔하여 보안 취약점을 탐지하는 프로젝트     | Linux, Docker,Trivy Python (Flask) | 👨‍👨‍👧‍👧 (4명)       | [GitHub 링크](https://github.com/yuwankang/security_scanner_study) | 2024-09-25 |
-| 8   | **MySQL Data Dump and Import Project**                | Docker를 이용하여 MySQL 데이터베이스의 데이터를 효율적으로 덤프하고, 새로운 MySQL 데이터베이스에 반영하는 방법을 다룹니다.     | Linux, Docker,Docker Compose, shellscript                     | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/mysql_Dump) | 2024-09-27 |
-| 9   | **CI-CDPipeLine**                | jenkins CI/CD 파이프라인을 사용하여 Github 빌드 및 배포 자동화 프로젝트     | jenkins, Linux, shellscript, ssh     | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/CI-CDPipeLine) | 2024-10-01 |
-| 10   | **k8s_Minikube**   | k8s LoadBalancer와 NodePort 서비스 방식의 차이를 비교 및 배포     | K8s, Spring Boot, Minikube,  NGINX, Docker    | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/k8s_Minikube) | 2024-10-02 |
-| 11   | **JmeterStressTest**   |AWS EC2에서 JMeter를 활용한 스트레스 테스트| AWS, Java, MySQL, Apache JMeter    | 👨‍👨‍👧‍👧 (4명)       | [GitHub 링크](https://github.com/yuwankang/WooriFisa_JmeterStressTest) | 2024-10-08 |
-| 12   | **AWS_Jenkins**   |AWS_Jenkins CI/CD| Java, Jenkins, EC2, S3, crontab, Slack    | 👨‍👨‍👧‍👧 (4명)       | [GitHub 링크](https://github.com/yuwankang/AWS_Jenkins) | 2024-10-11 |
-
+| 1   | **AWS_EKS_Spring**   |AWS EKS에서 Spring Boot 애플리케이션 배포| Java, Spring Boot, Docker, Kubernetes, AWS EKS, AWS ECR|  🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/AWS_EKS_Spring) | 2024-10-15 |
+| 2   | **AWS_Jenkins**   |AWS_Jenkins CI/CD| Java, Jenkins, EC2, S3, crontab, Slack    | 👨‍👨‍👧‍👧 (4명)       | [GitHub 링크](https://github.com/yuwankang/AWS_Jenkins) | 2024-10-11 |
+| 3   | **JmeterStressTest**   |AWS EC2에서 JMeter를 활용한 스트레스 테스트| AWS, Java, MySQL, Apache JMeter    | 👨‍👨‍👧‍👧 (4명)       | [GitHub 링크](https://github.com/yuwankang/WooriFisa_JmeterStressTest) | 2024-10-08 |
+| 4   | **k8s_Minikube**   | k8s LoadBalancer와 NodePort 서비스 방식의 차이를 비교 및 배포     | K8s, Spring Boot, Minikube,  NGINX, Docker    | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/k8s_Minikube) | 2024-10-02 |
+| 5   | **CI-CDPipeLine**                | jenkins CI/CD 파이프라인을 사용하여 Github 빌드 및 배포 자동화 프로젝트     | jenkins, Linux, shellscript, ssh     | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/CI-CDPipeLine) |2024-10-01 |
+| 6   | **security_scanner_study**                | 웹 애플리케이션을 통해 Docker 이미지를 스캔하여 보안 취약점을 탐지하는 프로젝트     | Linux, Docker,Trivy Python (Flask) | 👨‍👨‍👧‍👧 (4명)       | [GitHub 링크](https://github.com/yuwankang/security_scanner_study) | 2024-09-25 |\
+| 7   | **OptiDocker**                | 도커이미지 최적화 프로젝트             | Linux, Docker                      |       | [GitHub 링크](https://github.com/yuwankang/OptiDocker) | 2024-09-24 |
+| 8   | **cron_backup**                | 쉘 스크립트와 cron 작업을 사용하여 자동화된 백업 시스템 설정             | Linux, Crontab                      | 🙋‍♂️ (1명)       | [GitHub 링크](https://github.com/yuwankang/cron_backup) | 2024-09-23|
+| 9   | **AverageLoad**                              | 리눅스 시스템의 평균 부하에 대한 이해 및 시스템 성능 분석             | Linux                       | 🤼 (2명)       | [GitHub 링크](https://github.com/yuwankang/WooriFisa_AverageLoad/tree/main) | 2024-09-23 |
+| 10   | **1분의 인기스타**                           | 더미 데이터를 1초당 10개씩 생성하여 ELK로 시각화 및 1분마다 csv 삭제 | Linux, Crontab, Bash scripting, ELK | 👨‍👨‍👧‍👧 (4명) | [GitHub 링크](https://github.com/cshharry/WooriFisa_crontab)          | 2024-09-20 |
+| 11   | **Linux_PAM - VM 네트워크 및 보안 강화**     | VirtualBox Ubuntu VM 환경에서 네트워크 충돌 방지 및 보안 강화         | Linux, VirtualBox, PAM      | 👨‍👨‍👧‍👧 (4명) | [GitHub 링크]()                                                       | 2024-09-19 |
+| 12   | **NSX ALB 프로젝트**                         | NSX ALB 기술 분석 프로젝트                                            | NSX, LoadBalance, VMware    | 👨‍👨‍👧‍👧 (4명) | [노션 링크](https://www.notion.so/1-f72ae8bff2cf4a19bbedf66008957275) | 2024-09-13 |
 <br>
 
 ## ✨ 백엔드 프로젝트 목록 ✨
@@ -40,4 +39,4 @@
 
 ---
 
-이 포트폴리오는 지속적으로 업데이트됩니다. **(2024-10-11)**
+이 포트폴리오는 지속적으로 업데이트됩니다. **(2024-10-15)**
